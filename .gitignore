@@ -1,0 +1,6 @@
+# Ignore credentials
+n8n_data/credentials*
+.env
+*.log
+nodes
+crash.journal
